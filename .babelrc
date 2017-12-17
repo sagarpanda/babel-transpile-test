@@ -1,0 +1,7 @@
+{
+  "presets": ["es2015", "react"],
+  "plugins": [
+    "transform-postcss"
+  ],
+  "ignore": ["app/*.css", "index.js"]
+}
